@@ -557,8 +557,8 @@ button {
     width: 25px;
     position: absolute;
     bottom: 15px;
-    right: 671px;
-    top: 80px;
+    right: 49%;
+    top: 100%;
 }
 
 .triangal-roted::after {
