@@ -96,6 +96,10 @@ $(window).load(function(){
     new Ukiyo(".ukiyo")
 
      AOS.init();
+
+     $(".scroll-top").click(function(){
+        $("body").toggleClass("menuhahsh")
+     });
 	
 });
 
